@@ -1,0 +1,62 @@
+/* || general styles */
+
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-image: url("../proyecto/ciudad.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+
+
+  }
+  
+  h1, h2 {
+    font-family: 'sans-serif 120% cursive', cursive;
+    color: rgb(19, 31, 63);
+  }
+  
+  /* header styles */
+  
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: rgb(31, 31, 68);
+  }
+  
+  header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(27, 27, 97);
+
+  }
+  
+  /* section styles */
+  
+  section article {
+    width: 33%;
+    float: left;
+  }
+  
+  section p {
+    margin: 5px 0;
+    color: rgb(40, 122, 74);
+    font-weight: 900;
+  }
+  
+  section ul {
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+  }

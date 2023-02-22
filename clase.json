@@ -1,0 +1,40 @@
+{
+  "equipo": "Super Heroes Street",
+  "ciudad": "Bogotá",
+  "fundado": 2023,
+  "base secreta": "Bunker Street",
+  "activo": true,
+  "miembros": [
+    {
+      "nombre": "Iron Man",
+      "edad": 50,
+      "identidadsecreta": "Jack",
+      "poderes": [
+        "volar",
+        "fuerza",
+        "resistencia a choques"
+      ]
+    },
+    {
+      "nombre": "Super Man",
+      "edad": 35,
+      "identidadsecreta": "Clarck kent",
+      "poderes": [
+        "Resistencia a los golpes",
+        "Resistencia a la gravedad",
+        "Reflejos de Super Humano"
+      ]
+    },
+    {
+      "nombre": "Llama eterna",
+      "edad": 45,
+      "identidadsecreta": "Robert son",
+      "poderes": [
+        "Inmortal",
+        "Inmunidad al Calor",
+        "Teletransportación",
+        "Viaje Interdimensional"
+      ]
+    }
+  ]
+}
