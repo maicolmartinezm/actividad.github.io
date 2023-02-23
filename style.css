@@ -21,6 +21,11 @@ html {
     font-family: 'sans-serif 120% cursive', cursive;
     color: rgb(19, 31, 63);
   }
+
+.images{
+    text-align: center;
+    width: 25px;
+}
   
   /* header styles */
   
