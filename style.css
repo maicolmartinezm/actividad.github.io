@@ -16,7 +16,10 @@ html {
 
 
   }
-  
+.images{
+    width:200px;
+    position: left;
+}
   h1, h2 {
     font-family: 'sans-serif 120% cursive', cursive;
     color: rgb(19, 31, 63);
