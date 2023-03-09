@@ -70,6 +70,9 @@ div{
   a{
     margin:center;
     background-color: aliceblue;
+    color:rgb(19, 31, 63);
+    font-weight: 600;
     text-align: center;
-    
+    text-decoration: none;
+    padding: center;
   }
