@@ -67,3 +67,9 @@ div{
     letter-spacing: -5px;
     margin-bottom: 10px;
   }
+  a{
+    margin:center;
+    background-color: aliceblue;
+    text-align: center;
+    
+  }
